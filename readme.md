@@ -1,10 +1,10 @@
-# Portofolio
+# Portfolio
 
 Premier projet en cours de frontend. 
 Création d'un portfolio avec un fichier HTML imposé, une charte graphique et un cahier des charges, créer soit même le CSS sans toucher au HTML.
 Le thème imposé est "La casa de papel".
 
-[Lien vers la page](https://capura94.github.io/portfolio/)
+[Lien vers la page](https://cynthiaapura.github.io/portfolio/)
 >Exemple de CSS
 ```css
 header h1{
