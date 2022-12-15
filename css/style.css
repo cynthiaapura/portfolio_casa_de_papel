@@ -1,0 +1,67 @@
+html{
+    font-size: 62.5%;
+}
+body{
+    font-family: 'Raleway', sans-serif;
+    font: 1.6rem sans-serif;
+    margin: 0;
+    line-height: 1.6;
+    letter-spacing: 0.1rem;
+    color: #000000;
+    background-color: rgb(223, 181, 138, 0.3);
+}
+h1, h2, ol, ul, p{
+    margin: 0;
+    padding: 0;
+    font-weight: normal;
+    list-style-type: square;
+}
+img{
+    width: 20%;
+    margin-inline: 40%;
+    object-fit: cover;
+    vertical-align: middle;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+.material-symbols-outlined{
+    vertical-align: middle;
+}
+header h1{
+    font-weight: bold;
+    font-size: 4.5rem;
+    line-height: 6.5rem;
+    text-align: center;
+    color: #000000;
+    margin: 2rem;
+    border-bottom: 0.3rem solid;
+    border-color: rgb(166, 15, 27);
+}
+figcaption{
+    padding: 42.5px;
+    margin-top: 4rem;
+    margin-bottom: 4rem;
+}
+figure img{
+    filter: drop-shadow(0 0 1rem #222);
+}
+figure ul{
+    line-height: 2.5rem;
+    font-size: medium;
+    font-weight: normal;
+    margin: 2rem;
+    padding-left: 6.5rem;
+}
+figure span{
+    margin: 1rem 1rem 1rem;
+}
+figure h2{
+    font-weight: bolder;
+    font-size: larger;
+    margin-inline: 3rem;
+    border-bottom: 0.3rem solid;
+    border-color: #A60F1B;
+}
+footer p{
+    margin: 2rem;
+}
